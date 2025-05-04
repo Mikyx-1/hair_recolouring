@@ -1,0 +1,11 @@
+*.jpg
+*.png
+*.pdf
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.zip
